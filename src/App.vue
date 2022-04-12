@@ -1,5 +1,5 @@
 <template>
-<NavBar></NavBar>
+<NavBarView></NavBarView>
   <nav>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
@@ -8,11 +8,11 @@
 </template>
 
 <script>
-import NavBar from './components/NavBar.vue'
+import NavBarView from './views/NavBarView.vue'
 export default {
   name: "App",
   components:{
-    NavBar,
+    NavBarView
   },
 }
 </script>
