@@ -11,13 +11,13 @@
           <a class="nav-link active" aria-current="page" href="#">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">功能一</a>
+          <a class="nav-link" href="#">飲料試算機</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">功能二</a>
+          <a class="nav-link" href="#">關燈統計表</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+          <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">後台</a>
         </li>
       </ul>
     </div>
