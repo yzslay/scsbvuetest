@@ -8,6 +8,9 @@ npm install -g @vue/cli
 更新cli 
 npm update -g @vue/cli
 
+
+## 或直接npm install
+
 接著使用指令
 vue create 專案名稱
 
